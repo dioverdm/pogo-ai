@@ -2,6 +2,8 @@
 
 Un cliente JavaScript simple para interactuar con la API PogoAI. Este paquete facilita la generación de texto a partir de prompts.
 
+<img src="https://img.shields.io/npm/v/pogo-ai?style=for-the-badge" alt="NPM Badge"> <img src="https://img.shields.io/npm/l/pogo-ai?style=for-the-badge" alt="License Badge"> <img src="https://img.shields.io/npm/d18m/pogo-ai.svg?style=for-the-badge" alt="Download Badge">
+
 ## Instalación
 
 Para instalar `pogo-ai`, usa npm:
