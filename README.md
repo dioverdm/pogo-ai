@@ -14,7 +14,7 @@ npm i pogo-ai
 
 ## Uso
 
-Este paquete exporta una clase `PogoAI`. Para usarla, necesitas una clave de API. Obtén tu clave de API desde [aquí](https://pogoai.com).
+Este paquete exporta una clase `PogoAI`. Para usarla, necesitas una clave de API. Obtén tu clave de API desde [aquí](https://pogoai.es).
 
 ```bash
 const PogoAI = require('pogo-ai');
@@ -71,7 +71,7 @@ try {
 ## Consideraciones
 
 * Asegúrate de tener una clave de API válida antes de usar este paquete.
-* Puedes consultar la documentación de la API PogoAI para más detalles sobre los modelos y sus capacidades. [docs.pogoai.com](https://docs.pogoai.com)
+* Puedes consultar la documentación de la API PogoAI para más detalles sobre los modelos y sus capacidades. [docs.pogoai.com](https://docs.pogoai.es)
 
 
 ## Licencia
