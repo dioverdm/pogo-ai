@@ -1,7 +1,7 @@
 const { makeRequest } = require('./request');
 
 class PogoAI {
-    constructor(apiKey, apiUrl = 'http://fred.hidencloud.com:25736/') {
+    constructor(apiKey, apiUrl = 'http://de01.uniplex.xyz:5206/') {
         this.apiKey = apiKey;
         this.apiUrl = apiUrl;
     }
